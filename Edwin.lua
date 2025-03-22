@@ -1,3 +1,4 @@
+-- script is open source dont skid yea if you want it give credit
 local player = game.Players.LocalPlayer
 local noclipEnabled = false
 local ownerUserId = 4539739448
