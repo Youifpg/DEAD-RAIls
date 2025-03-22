@@ -65,7 +65,7 @@ window:AddButton({
     end
 })
 
-window:AddLabel({ text = "Credits: Dora & Shidou & Play", type = "label" })
+window:AddLabel({ text = "Credits: TOUKA", type = "label" })
 library:Init()
 
 local function createTimerUI()
